@@ -1,14 +1,15 @@
-# Hi, I'm Lynsey!
+# Howdy, I'm Lynsey :wave:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynseywells)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## Skills and Experience
+- Java
+- HTML/CSS
+- JavaScript
+- Python
+- Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+
+## Get In Touch
+📫 lynseynwells@gmail.com
+
