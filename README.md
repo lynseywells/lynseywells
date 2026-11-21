@@ -9,7 +9,7 @@ When I have free time I like to play video games (mostly RPGS, but I do dabble i
 ## Skills and Experience
 I have two Associate's of Applied Science from TSTC: one in graphic design, and one in computer programming. I am currently working towards my Bachelor's in Software Engineering at WGU. For the past year and a half I have been employed as a Software Engineer full time. 
 
-Checkout my [portfolio](https://lynseywells.github.io/) to see examples of my work and my [resume](https://profile.indeed.com/p/lynseyw-z8brgt6) to see my experience and education history in detail. All of my work is coded by me, without the help of AI. I do not use AI for my personal work for a few reasons: 1) it negates any benefit of practicing by doing the critical thinking for me, and 2) it sucks all the satisfaction and fun out of programming. This portfolio is meant to be a showcase of my creativity and skills, NOT how well I can prompt an AI bot into doing the work for me.
+Checkout my [portfolio](https://lynseywells.github.io/) to see examples of my work and my [resume](LynseyWellsResume.pdf) to see my experience and education history in detail. All of my work is coded by me, without the help of AI. I do not use AI for my personal work for a few reasons: 1) it negates any benefit of practicing by doing the critical thinking for me, and 2) it sucks all the satisfaction and fun out of programming. This portfolio is meant to be a showcase of my creativity and skills, NOT how well I can prompt an AI bot into doing the work for me.
 
 ## Get In Touch
 📫 lynseynwells@gmail.com
